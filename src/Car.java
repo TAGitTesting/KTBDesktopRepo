@@ -51,6 +51,7 @@ return model;
 
 public setModel(String model) {
 this.model=model;
+System.out.println("added this to check out merging when file changed by 2 diff users");
 }
 
 
