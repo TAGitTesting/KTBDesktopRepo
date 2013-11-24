@@ -1,4 +1,1 @@
-this is a really important file.
-
-edited by giterdone
-
+this is a really important file
