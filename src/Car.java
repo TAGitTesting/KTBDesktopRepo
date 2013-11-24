@@ -11,7 +11,7 @@ Car(String color,String model,int releaseYear){
 this.color =color;
 this.model=model;
 this.releaseYear=releaseYear;
-
+System.out.println("consutructor done. just added so I can sync to master and compare to car changes made in dev bracnh");
 
 }
 
