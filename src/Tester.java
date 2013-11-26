@@ -12,7 +12,7 @@ System.out.println(this is the main method man!");
 private checkParams(){
 
 System.out.println("this checks our parameters");
-
+System.out.println("This is alberto making a change");
 }
 
 }
