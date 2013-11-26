@@ -2,6 +2,7 @@ Class Car {
 
 private String color;
 private String model;
+private String etype; //engine type - ex: standard/hybrid
 private int releaseYear;
 
 
@@ -54,7 +55,11 @@ this.model=model;
 System.out.println("added this to check out merging when file changed by 2 diff users");
 }
 
+public setEType(string type){
+	this.etype = type;
+	System.out.println("engine type added");
+}
 
-
-
+public getEType() {
+	return etype;
 }
