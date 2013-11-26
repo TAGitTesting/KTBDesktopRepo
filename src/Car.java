@@ -19,6 +19,7 @@ System.out.println("consutructor done. just added so I can sync to master and co
 public void drive() {
 
 System.out.println("drive man!")
+System.out.println("drive Andrew!")
 
 }
 
@@ -54,7 +55,9 @@ this.model=model;
 System.out.println("added this to check out merging when file changed by 2 diff users");
 }
 
-
+//car needs to start
+public void drive (){
+System.out.println("startting!");
 
 
 }
